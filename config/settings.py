@@ -53,7 +53,7 @@ MOOD_RANGE = [
 
 WEEKLY_ACTIVITIES = [
     {"id": "housework", "name": "做家务", "type": "boolean"},
-    {"id": "eating_out", "name": "外出就餐", "type": "boolean"}
+    {"id": "eating_out", "name": "外出就餐", "type": "boolean"},
     {"id": "eating_out", "name": "打比赛", "type": "boolean"}
 ]
 
