@@ -153,7 +153,7 @@ def render_daily_form(selected_date, daily_data):
         special_activities = [act for act in DAILY_ACTIVITIES if act.get("category") == "特殊"]
         
         # Create activity checkboxes grouped by category
-        st.subheader("学习安排")
+        st.subheader("工作安排")
         study_values = {}
         for activity in study_activities:
             if activity["type"] == "boolean":
