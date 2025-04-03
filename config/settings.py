@@ -25,9 +25,9 @@ DAILY_ACTIVITIES = [
     {"id": "bowel_movement", "name": "社交", "category": "学习安排", "type": "boolean"},
     
     # Life activities (生活)
-    {"id": "going_out", "name": "骑车", "category": "生活", "type": "boolean"},
-    {"id": "going_out", "name": "做饭", "category": "生活", "type": "boolean"},
-    {"id": "going_out", "name": "家人", "category": "生活", "type": "boolean"},
+    {"id": "biking", "name": "骑车", "category": "生活", "type": "boolean"},
+    {"id": "cooking", "name": "做饭", "category": "生活", "type": "boolean"},
+    {"id": "family", "name": "家人", "category": "生活", "type": "boolean"},
     {"id": "dog_walking", "name": "遛狗", "category": "生活", "type": "boolean"},
     {"id": "casual_reading", "name": "看书", "category": "生活", "type": "boolean"},
     {"id": "exercise", "name": "健身", "category": "生活", "type": "complex", "has_time": True},
